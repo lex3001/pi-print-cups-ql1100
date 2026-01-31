@@ -42,7 +42,7 @@
 
 *OpenUI *PageSize/Media Size: PickOne
 *OrderDependency: 11 AnySetup *PageSize
-*DefaultPageSize: 102x152
+*DefaultPageSize: 103x164
 *%PageSize 17x54/17mm x 54mm(0.66" x 2.1"):		"          "
 *%PageSize 17x87/17mm x 87mm(0.66" x 3.4"):		"          "
 *%PageSize 23x23/23mm x 23mm(0.9" x 0.9"):		"          "
@@ -55,8 +55,8 @@
 *%PageSize 62x29/62mm x 29mm(2.4" x 1.1"):		"          "
 *%PageSize 62x100/62mm x 100mm(2.4" x 3.9"):		"          "
 *%PageSize 102x51/102mm x 51mm(4" x 2"):			"          "
-*PageSize 102x152/102mm x 152mm(4" x 6"):		"          "
-*%PageSize 103x164/103mm x 164mm(4.07" x 6.4"):	"          "
+*%PageSize 102x152/102mm x 152mm(4" x 6"):		"          "
+*PageSize 103x164/103mm x 164mm(4.07" x 6.4"):	"          "
 *%PageSize 12Dia/12mm(0.47") Dia:				"          "
 *%PageSize 24Dia/24mm(0.94") Dia:				"          "
 *%PageSize 58Dia/58mm(2.2") Dia:					"          "
@@ -72,7 +72,7 @@
 
 *OpenUI *PageRegion: PickOne
 *OrderDependency: 12 AnySetup *PageRegion
-*DefaultPageRegion: 102x152
+*DefaultPageRegion: 103x164
 *%PageRegion 17x54/17mm x 54mm(0.66" x 2.1"):		"          "
 *%PageRegion 17x87/17mm x 87mm(0.66" x 3.4"):		"          "
 *%PageRegion 23x23/23mm x 23mm(0.9" x 0.9"):			"          "
@@ -85,8 +85,8 @@
 *%PageRegion 60x86/60mm x 86mm(2.3"x3.4"):			"          "
 *%PageRegion 62x100/62mm x 100mm(2.4" x 3.9"):		"          "
 *%PageRegion 102x51/102mm x 51mm(4" x 2"):			"          "
-*PageRegion 102x152/102mm x 152mm(4" x 6"):			"          "
-*%PageRegion 103x164/103mm x 164mm(4.07" x 6.4"):	"          "
+*%PageRegion 102x152/102mm x 152mm(4" x 6"):			"          "
+*PageRegion 103x164/103mm x 164mm(4.07" x 6.4"):	"          "
 *%PageRegion 12Dia/12mm(0.47") Dia:					"          "
 *%PageRegion 24Dia/24mm(0.94") Dia:					"          "
 *%PageRegion 58Dia/58mm(2.2") Dia:					"          "
@@ -100,7 +100,7 @@
 *%PageRegion 103X1/103mm(4.07"):						"          "
 *CloseUI: *PageRegion
 
-*DefaultImageableArea: 102x152
+*DefaultImageableArea: 103x164
 *%ImageableArea 17x54/17mm x 54mm(0.66" x 2.1"):		"4.32 8.4   43.92  144.24"
 *%ImageableArea 17x87/17mm x 87mm(0.66" x 3.4"):		"4.32 8.4   43.92  237.84"
 *%ImageableArea 23x23/23mm x 23mm(0.9" x 0.9"):		"4.32 8.4   60.96  56.88"
@@ -113,8 +113,8 @@
 *%ImageableArea 62x29/62mm x 29mm(2.4" x 1.1"):		"4.32 8.4   171.36 73.44"
 *%ImageableArea 62x100/62mm x 100mm(2.4" x 3.9"):	"4.32 8.4   171.36 274.56"
 *%ImageableArea 102x51/102mm x 51mm(4" x 2"):		"4.32 8.4   283.68 134.64"
-*ImageableArea 102x152/102mm x 152mm(4" x 6"):		"4.32 17.28 283.68 415.68"
-*%ImageableArea 103x164/103mm x 164mm(4.07" x 6.4"):	"2.88 14.17 290.79 451.67"
+*%ImageableArea 102x152/102mm x 152mm(4" x 6"):		"4.32 17.28 283.68 415.68"
+*ImageableArea 103x164/103mm x 164mm(4.07" x 6.4"):	"2.88 14.17 290.79 451.67"
 *%ImageableArea 12Dia/12mm(0.47") Dia:				"5.76 5.76  28.32  28.32"
 *%ImageableArea 24Dia/24mm(0.94") Dia:				"5.76 5.76  62.4   62.4"
 *%ImageableArea 58Dia/58mm(2.2") Dia:				"8.4  8.4   156.72 156.72"
@@ -129,7 +129,7 @@
 *%ImageableArea 103X1/103mm(4.07"):					"2.88 8.4   290.79 274.56"
 
 *%==== Information About Media Sizes ========
-*DefaultPaperDimension: 102x152
+*DefaultPaperDimension: 103x164
 *%PaperDimension 17x54/17mm x 54mm(0.66" x 2.1"):		"48.24  152.64"
 *%PaperDimension 17x87/17mm x 87mm(0.66" x 3.4"):		"48.24  246.24"
 *%PaperDimension 23x23/23mm x 23mm(0.9" x 0.9"):			"65.28  65.28"
@@ -143,8 +143,8 @@
 *%PaperDimension 62x100/62mm x 100mm(2.4" x 3.9"):		"175.68 282.96"
 *%PaperDimension 102x51/102mm x 51mm(4" x 2"):			"288.0  143.04"
 *%PaperDimension 102x152/102mm x 152mm(4" x 6"):			"288.0  432.96"
-*PaperDimension 102x152/102mm x 152mm(4" x 6"):			"288.0  432.0"
-*%PaperDimension 103x164/103mm x 164mm(4.07" x 6.4"):	"293.67 465.84"
+*%PaperDimension 102x152/102mm x 152mm(4" x 6"):			"288.0  432.0"
+*PaperDimension 103x164/103mm x 164mm(4.07" x 6.4"):	"293.67 465.84"
 *%PaperDimension 12Dia/12mm(0.47") Dia:					"34.08  34.08"
 *%PaperDimension 24Dia/24mm(0.94") Dia:					"68.16  68.16"
 *%PaperDimension 58Dia/58mm(2.2") Dia:					"165.12 165.12"
