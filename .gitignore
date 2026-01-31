@@ -1,0 +1,2 @@
+# Ignore local deploy configuration
+deploy_config.sh
